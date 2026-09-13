@@ -1,8 +1,6 @@
-# Multimedia-Analyser
 # 🎬 Multimedia Systems Lab
 
 * **Name:** Riya Bais
-* **Roll No.:** IC-2K22-70
 * **Semester:** 9th Semester - "A"
 * **Institute:** *IIPS, DAVV*
 
@@ -15,3 +13,4 @@ This repository contains the practical implementations and projects developed fo
 * **Cluster 01 – Image Processing:** Contains programs for analyzing, enhancing, and processing digital images.
 * **Cluster 02 – Audio Processing:** Contains programs for analyzing and processing audio files, along with an AI-based Voice Cloning tool.
 * **Cluster 03 – Video Processing:** Contains programs for analyzing, editing, and manipulating video content.
+
