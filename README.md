@@ -1,16 +1,21 @@
-# 🎬 Multimedia Systems Lab
+# Task 4: Voice Synthesis App 🎙️
 
-* **Name:** Riya Bais
-* **Semester:** 9th Semester - "A"
-* **Institute:** *IIPS, DAVV*
+A Streamlit web application that converts text to speech using the ElevenLabs API. It dynamically fetches available voices associated with your ElevenLabs account and synthesizes speech using the `eleven_multilingual_v2` model.
 
----
+## 🚀 Features
 
-## 📂 Clusters
+- **Dynamic Voice Selection**: Fetches available voices directly from your ElevenLabs account via `client.voices.get_all()`.
+- **Text-to-Speech Synthesis**: Converts custom user text into natural-sounding audio.
+- **Audio Playback**: Integrated Streamlit audio player for instant playback.
 
-This repository contains the practical implementations and projects developed for the **Multimedia Systems Lab**. The work is divided into three main clusters:
+## 🛠️ Requirements
 
-* **Cluster 01 – Image Processing:** Contains programs for analyzing, enhancing, and processing digital images.
-* **Cluster 02 – Audio Processing:** Contains programs for analyzing and processing audio files, along with an AI-based Voice Cloning tool.
-* **Cluster 03 – Video Processing:** Contains programs for analyzing, editing, and manipulating video content.
+- Python 3.10+
+- `streamlit`
+- `elevenlabs`
 
+## ⚙️ Setup & Execution
+
+1. Navigate to the `Task_4_Voice_Cloner` directory:
+   ```bash
+   cd Task_4_Voice_Cloner
